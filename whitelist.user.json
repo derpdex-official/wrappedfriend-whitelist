@@ -40,5 +40,11 @@
       "twitterName": "Working Version",
       "address": "0xd20D67FCA86160810733431174608fBC4b33127A",
       "wrappedAddress": "0xc53E65457E619EAF18C0D3f76f11Bc7d7c54105d"
+  },
+    {
+      "twitterUsername": "WF-V2",
+      "twitterName": "Working Version V2",
+      "address": "0x087306FEC9A0fae0C6EDc98af4D906Da56088c28",
+      "wrappedAddress": "0x91497097a254D8AcAc0a222788cCEc25b8B98753"
   }
 ]
