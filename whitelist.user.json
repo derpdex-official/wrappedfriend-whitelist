@@ -1,0 +1,44 @@
+[
+  {
+      "twitterUsername": "0xRacerAlt",
+      "twitterName": "Racer",
+      "address": "0xfd7232e66a69e1ae01e1e0ea8fab4776e2d325a9",
+      "wrappedAddress": "0xE4E1A9fF095972599F3Aa9926423a5Fde756c8FB"
+  },
+  {
+      "twitterUsername": "0xLawliette",
+      "twitterName": "L",
+      "address": "0xe3354409644c8f791885ab232d43073782638704",
+      "wrappedAddress": "0xE4E1A9fF095972599F3Aa9926423a5Fde756c8FB"
+  },
+  {
+      "twitterUsername": "HsakaTrades",
+      "twitterName": "Hsaka",
+      "address": "0xef42b587e4a3d33f88fa499be1d80c676ff7a226",
+      "wrappedAddress": "0xE4E1A9fF095972599F3Aa9926423a5Fde756c8FB"
+  },
+  {
+      "twitterUsername": "Dummy User 1",
+      "twitterName": "Dummy User 1",
+      "address": "0xC6c1663165A4CC686569ceEE4795FF34598713e7",
+      "wrappedAddress": "0xE4E1A9fF095972599F3Aa9926423a5Fde756c8FB"
+  },
+  {
+      "twitterUsername": "Dummy User 2",
+      "twitterName": "Dummy User 2",
+      "address": "0x735d1bC7F1Cf727E12bd91bC642B42Db9d2140E5",
+      "wrappedAddress": "0x8Df4f4fBD588fd1AdbA39c843b260139f38ef839"
+  },
+  {
+      "twitterUsername": "Dummy User 3",
+      "twitterName": "Dummy User 3",
+      "address": "0x0307058006F164BdC91CF1fBE619CE8811638F0c",
+      "wrappedAddress": "0xeC545bc7822EFBbFFdAe8a817d0e4e8b10568b71"
+  },
+  {
+      "twitterUsername": "Working Version",
+      "twitterName": "Working Version",
+      "address": "0xd20D67FCA86160810733431174608fBC4b33127A",
+      "wrappedAddress": "0xc53E65457E619EAF18C0D3f76f11Bc7d7c54105d"
+  }
+]
