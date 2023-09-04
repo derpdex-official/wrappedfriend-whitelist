@@ -22,5 +22,11 @@
       "twitterName": "Test",
       "address": "0xe3c6983E62c0082a96F4c2CD0C7e6063649Cd107",
       "wrappedAddress": "0x3bf3a01a7eba6038fae6b16af96c2b0bd5567d63"
+  },
+  {
+      "twitterUsername": "test 2",
+      "twitterName": "Test 2",
+      "address": "0x4d6D5288eD3cF7d639bC9f7BcAc8645B37A73205",
+      "wrappedAddress": "0x8F2295928F535d6c7fa6A011A2D307c6627812dF"
   }
 ]
