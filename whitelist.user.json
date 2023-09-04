@@ -16,5 +16,11 @@
       "twitterName": "Working Version V2",
       "address": "0x0A9aaDe1ec97836c49bBd2ba2ef3c7474b6c1183",
       "wrappedAddress": "0x1beF36CDBCaf3021D2DA0D3013C51F453B4C668E"
+  },
+  {
+      "twitterUsername": "test",
+      "twitterName": "Test",
+      "address": "0xe3c6983E62c0082a96F4c2CD0C7e6063649Cd107",
+      "wrappedAddress": "0x3bf3a01a7eba6038fae6b16af96c2b0bd5567d63"
   }
 ]
