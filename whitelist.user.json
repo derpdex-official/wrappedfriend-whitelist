@@ -28,5 +28,11 @@
       "twitterName": "Test 2",
       "address": "0x4d6D5288eD3cF7d639bC9f7BcAc8645B37A73205",
       "wrappedAddress": "0x8F2295928F535d6c7fa6A011A2D307c6627812dF"
+  },
+  {
+      "twitterUsername": "test 3",
+      "twitterName": "Test 3",
+      "address": "0xcb2A59b29fE69726FA728e5a3d5C84a260E7B1Ba",
+      "wrappedAddress": "0xBE1eee4a5b5B2e349D485502eB8aDda409d189be"
   }
 ]
