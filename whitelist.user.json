@@ -40,5 +40,11 @@
       "twitterName": "Test 4",
       "address": "0xfEEd2317645732b34A6634494efE7a7eBbEaF85f",
       "wrappedAddress": "0x3b1D534951D901a35E841260E294e447dEbC3178"
+  },
+  {
+      "twitterUsername": "ssl",
+      "twitterName": "SSL",
+      "address": "0xcb2A59b29fE69726FA728e5a3d5C84a260E7B1Ba",
+      "wrappedAddress": "0x412DbFa5B8275DB8aD28165F2FD74C8Ba6Cd5239"
   }
 ]
