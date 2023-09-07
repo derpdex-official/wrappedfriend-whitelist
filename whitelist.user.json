@@ -46,5 +46,11 @@
       "twitterName": "SSL",
       "address": "0xcb2A59b29fE69726FA728e5a3d5C84a260E7B1Ba",
       "wrappedAddress": "0x412DbFa5B8275DB8aD28165F2FD74C8Ba6Cd5239"
+  },
+  {
+      "twitterUsername": "pp1",
+      "twitterName": "pp1",
+      "address": "0x03E3C314E6CD58e215128DBc31E4c2ecee0b7c31",
+      "wrappedAddress": "0x9C79BeC9490e4C0cD6A3f7D6f4f704C22646331F"
   }
 ]
