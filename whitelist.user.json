@@ -52,5 +52,11 @@
       "twitterName": "pp1",
       "address": "0x03E3C314E6CD58e215128DBc31E4c2ecee0b7c31",
       "wrappedAddress": "0x9C79BeC9490e4C0cD6A3f7D6f4f704C22646331F"
+  },
+  {
+      "twitterUsername": "casio",
+      "twitterName": "Casio",
+      "address": "0xcb2A59b29fE69726FA728e5a3d5C84a260E7B1Ba",
+      "wrappedAddress": "0x6D5701a29e4e330F416fDF7Fd5A737F1FD3A8D13"
   }
 ]
