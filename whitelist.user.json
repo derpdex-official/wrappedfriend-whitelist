@@ -58,5 +58,11 @@
       "twitterName": "Casio",
       "address": "0xcb2A59b29fE69726FA728e5a3d5C84a260E7B1Ba",
       "wrappedAddress": "0x6D5701a29e4e330F416fDF7Fd5A737F1FD3A8D13"
+  },
+  {
+      "twitterUsername": "tip",
+      "twitterName": "TipCoin",
+      "address": "0xcb2A59b29fE69726FA728e5a3d5C84a260E7B1Ba",
+      "wrappedAddress": "0x615e6DcBC2c53E6f7E61821e2361bB528340D71C"
   }
 ]
